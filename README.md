@@ -18,3 +18,5 @@ A timer tracks how long you can stay in the game, and a scoreboard keeps a runni
 - JavaScript for the game’s logic and interactivity.
 
 Try to keep up as the insects swarm faster and faster!
+**Live Demo**
+https://sagnik8103.github.io/Insect-Catch-Game/
